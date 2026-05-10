@@ -35,10 +35,10 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas Uni
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Corrida de Prompt** | Dominação da técnica de comunicação com modelos de linguagem | [Ver Projeto](./projeto-corrida-de-prompt/) |
-| **Laboratório de Classificação Visual** | Treinamentto de modelo de imagem. | [Ver Projeto](./projeto-de-laboratorio/) |
+| **Laboratório de Classificação Visual** | Treinamento de modelo de imagem. | [Ver Projeto](./projeto-de-laboratorio/) |
 | **Batalha de Modelos & Engenharia de Prompt** | Avaliar a precisão técnica e a conformidade de diferentes LLMs. | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt/) |
-| **Engenharia Reversa** | Treinamentto de modelo de imagem. | [Ver Projeto](./projeto-engenharia-reversa/) |
-
+| **Engenharia Reversa** |Engenharia reversa sem acesso ao código. | [Ver Projeto](./projeto-engenharia-reversa/) |
+| **Do Clone ao Produto Mínimo Viável** |Engenharia reversa sem acesso ao código. | [Ver Projeto](./projeto-do-clone-ao-produto-mínimo-viável/) |
 ---
  
 ### 🏗 Estrutura do Repositório
