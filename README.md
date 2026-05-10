@@ -39,6 +39,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas Uni
 | **Batalha de Modelos & Engenharia de Prompt** | Avaliar a precisão técnica e a conformidade de diferentes LLMs. | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt/) |
 | **Engenharia Reversa** |Engenharia reversa sem acesso ao código. | [Ver Projeto](./projeto-engenharia-reversa/) |
 | **Do Clone ao Produto Mínimo Viável** |Engenharia reversa sem acesso ao código. | [Ver Projeto](./projeto-do-clone-ao-produto-mínimo-viável/) |
+| **Engenharia de Software e IA com Bubble.io** | Criação de um site baseado em uma confeitaria. | [Ver Projeto]([./projeto-engenharia-de-software-e-IA-com-bubble.io/] |
 ---
  
 ### 🏗 Estrutura do Repositório
@@ -47,25 +48,6 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-|  | [Ver Projeto] ([./projeto-corrida-de-prompt/]
-| **La Douce Vie** | Criação de um site baseado em uma confeitaria. | [Ver Projeto]([./projeto-ia-churn/](https://la-douce-vie.bubbleapps.io/version-test?debug_mode=true)) |
- | **SoftGrid.io** | Criação de um site baseado em um design elegante e responsivo. | [Ver Projeto]([./projeto-ia-churn/]([https://aistudio.google.com/apps/e93fbf99-c71a-4cb3-8cd3-bb6242901f9a?showPreview=true&showAssistant=true)) |
 
 ---
 
