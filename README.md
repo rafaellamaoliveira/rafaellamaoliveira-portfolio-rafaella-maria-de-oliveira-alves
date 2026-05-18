@@ -6,6 +6,7 @@
 ### 📫 Contato & Redes Sociais
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaellamoliveira2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaella-oliveira-41303730a/)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
  
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas Universidade de São Paulo (Unicid). Sou apaixonada por desenvolvimento de sistes através da tecnologia e possuo foco em Inteligencia artificial.
